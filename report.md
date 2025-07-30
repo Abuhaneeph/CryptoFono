@@ -602,6 +602,18 @@ describe('USDC Transfer', () => {
 ## 🎥 Demo
 Watch our demonstration video: [CryptoFono Demo](https://youtu.be/_7N1VA6spXA)
 
+---
+
+## 🔗 API Endpoints
+### Base URLs
+* **Testnet Environment**: `https://cryptofono-ussd-testnet.onrender.com/ussd`
+* **Mainnet Environment**: `https://cryptofono-ussd.onrender.com/ussd`
+
+---
+### Documentation
+* **Postman API Documentation**: [CryptoFono USSD API](https://www.postman.com/security-architect-92214193/cryptofono/collection/ue8u9wt/cryptofono-ussd-api?action=share&creator=45016156)
+
+---
 ## Conclusion
 
 CryptoFono successfully demonstrates that advanced blockchain technology can be made accessible through the most basic mobile infrastructure. By leveraging USSD, ERC-4337 account abstraction, and careful resource optimization, we've created a practical solution for financial inclusion in resource-constrained environments.
