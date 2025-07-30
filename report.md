@@ -599,6 +599,9 @@ describe('USDC Transfer', () => {
 
 ---
 
+## 🎥 Demo
+Watch our demonstration video: [CryptoFono Demo](https://youtu.be/_7N1VA6spXA)
+
 ## Conclusion
 
 CryptoFono successfully demonstrates that advanced blockchain technology can be made accessible through the most basic mobile infrastructure. By leveraging USSD, ERC-4337 account abstraction, and careful resource optimization, we've created a practical solution for financial inclusion in resource-constrained environments.
